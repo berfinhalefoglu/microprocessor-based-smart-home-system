@@ -19,3 +19,20 @@ The project controls and monitors multiple sensors and modules such as temperatu
 - Proteus (for simulation)
 
 ## Project Structure
+
+
+## How to Run
+1. Open project in Keil µVision
+2. Build the project
+3. Generate HEX file
+4. Upload HEX file to microcontroller
+5. Run simulation in Proteus or test on hardware
+
+## What I Learned
+- Writing modular embedded C code
+- Interfacing sensors and modules
+- Microcontroller I/O operations
+- Debugging embedded systems
+
+---
+
